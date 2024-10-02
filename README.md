@@ -1,7 +1,7 @@
 # Software Engineering Methods
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/sim-macdonald/sem/main.yml?branch=develop)
+Develop Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/sim-macdonald/sem/main.yml?branch=develop)
 
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/sim-macdonald/sem/main.yml?branch=master)
+Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/sim-macdonald/sem/main.yml?branch=master)
 
 [![LICENSE](https://img.shields.io/github/license/sim-macdonald/sem.svg?style=flat-square)](https://github.com/sim-macdonald/sem/blob/master/LICENSE)
 
