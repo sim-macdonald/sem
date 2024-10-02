@@ -1,1 +1,3 @@
-Software Engineering Methods
+Software Engineering Methods.
+
+Text edit for lab.
